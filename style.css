@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 20px;
+}
+h1 {
+  color: #333;
+}
+input[type="file"] {
+  margin-top: 10px;
+}
+#result, #upload-result {
+  margin-top: 10px;
+  font-weight: bold;
+  color: green;
+}
